@@ -1,5 +1,5 @@
 # Cadastro-e-lista-de-produtos
-Sistema de cadastro e produtos, feito em Dart.
+Sistema de cadastro de produtos, feito em Dart.
 
 # Comandos:
 
